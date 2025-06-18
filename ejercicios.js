@@ -162,6 +162,7 @@ const exerciseVideoUrls = {
     "Remo Inclinado en Landmine": { videoUrl: "https://youtu.be/5gakUsid-Lg", notes: "" },
     "Remo Unilateral en Landmine": { videoUrl: "https://youtu.be/DSMBCxZlts4", notes: "" },
     "Remo Unilateral Lateral en Landmine": { videoUrl: "https://youtu.be/6uECO7vAmCc", notes: "" },
+    "Remo Seal con Mancuernas": { videoUrl: "https://www.youtube.com/shorts/6tLfn99dO8o", notes: "Trata de despegar el pecho al final del movimiento" },
     "Gorilla Row con Kettlebells/Mancuernas": { videoUrl: "https://youtu.be/4hKPsdWsXl8", notes: "" },
     "Máquina de Remo (Gironda)": { videoUrl: "https://www.youtube.com/watch?v=3wcaZqSfP0A", notes: "" },
     "Máquina de Remo Alto": { videoUrl: "https://www.youtube.com/watch?v=nfFBucEfwtI", notes: "" },
