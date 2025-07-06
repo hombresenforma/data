@@ -249,6 +249,7 @@ const exerciseVideoUrls = {
     "Pájaros en Polea": { videoUrl: "https://www.youtube.com/watch?v=F8bfnYgzIRs", notes: "" },
     "Face Pull en Polea": { videoUrl: "https://www.youtube.com/watch?v=tZN8KYDSCRo", notes: "" },
     "Pájaros en Polea (Hombro Posterior)": { videoUrl: "https://www.youtube.com/watch?v=GNJYBxhsuNU", notes: "" },
+    "Patada de Glúteo en Polea": { videoUrl: "https://www.youtube.com/watch?v=3KdH7vkEW6s", notes: "Usa un disco o step para elevar el otro pie" },
 
     // =================================================================
     // PIERNA (CUÁDRICEPS)
