@@ -250,6 +250,7 @@ const exerciseVideoUrls = {
     "Face Pull en Polea": { videoUrl: "https://www.youtube.com/watch?v=tZN8KYDSCRo", notes: "" },
     "Pájaros en Polea (Hombro Posterior)": { videoUrl: "https://www.youtube.com/watch?v=GNJYBxhsuNU", notes: "" },
     "Patada de Glúteo en Polea": { videoUrl: "https://www.youtube.com/watch?v=3KdH7vkEW6s", notes: "Usa un disco o step para elevar el otro pie" },
+    "Muscle Clean-Jerk Unilat Alterno Mancuerna": { videoUrl: "https://www.youtube.com/watch?v=2sOV3aayUCI&t=2s", notes: "Alterna entre brazos" },
 
     // =================================================================
     // PIERNA (CUÁDRICEPS)
