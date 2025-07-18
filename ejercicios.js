@@ -168,6 +168,7 @@ const exerciseVideoUrls = {
     "Máquina de Remo Alto": { videoUrl: "https://www.youtube.com/watch?v=nfFBucEfwtI", notes: "" },
     "Remo en TRX / Anillas": { videoUrl: "https://www.youtube.com/watch?v=ZVM4-F0ZF0w", notes: "" },
     "Remo Invertido": { videoUrl: "https://www.youtube.com/watch?v=hdEpF62-Jb8", notes: "" },
+    "Remo Renegade Alterno con Mancuernas" { videoUrl: "https://www.youtube.com/watch?v=FjwFzYXSK70", notes: "Mantén la cadera sin que se mueva ni rote" },
     "Face Pull en Polea Alta": { videoUrl: "https://www.youtube.com/watch?v=tZN8KYDSCRo", notes: "" },
     "Face Pull en TRX / Rings / Anillas": { videoUrl: "https://www.youtube.com/watch?v=rIpWyPV45PU", notes: "" },
     "Reverse Fly (Pájaros) para Hombro Posterior y Espalda": { videoUrl: "https://www.youtube.com/watch?v=GNJYBxhsuNU", notes: "" },
