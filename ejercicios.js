@@ -53,6 +53,17 @@ const exerciseVideoUrls = {
     // =================================================================
     // LIBERACIÓN MIOFASCIAL
     // =================================================================
+    "Remo en TRX": { videoUrl: "https://www.youtube.com/watch?v=L6F1ZKsrRGI", notes: "" },
+    "Remo Horizontal en TRX": { videoUrl: "https://www.youtube.com/watch?v=uTA2s5FuRUM", notes: "Mantén una inclinación paralela al suelo." },
+    "Remo Unilat en TRX": { videoUrl: "https://www.youtube.com/watch?v=sIM4_aMGdlk", notes: "Controla el Torso que no se gire." },
+    "Remo Unilat con Mancuerna/KTB (Explicado)": { videoUrl: "https://youtu.be/uH9Hg4nWOG8", notes: "" },
+    "Zancada Trasera Alterna con Mancuernas/KTB": { videoUrl: https://www.youtube.com/watch?v=Kzv73cEkTq4", notes: "" },
+    "Plancha Lateral Dinámica sobre Antebrazo": { videoUrl: "https://www.youtube.com/watch?v=fhCo3uoboAU", notes: "" },
+    "Abducción de Glúteo Unilat en el Suelo": { videoUrl: "https://youtu.be/TY5nZehvOhU?si=c3yMrpjxVKgMh7jG", notes: "" },
+    "CARDIO - Correr (Suave)": { videoUrl: "https://youtu.be/KKvRtNn904g", notes: "Puedes hacerlo al aire libre si lo prefieres." },
+    "CARDIO - Correr (Sprint)": { videoUrl: "https://youtu.be/KKvRtNn904g", notes: "Puedes hacerlo al aire libre si lo prefieres." },
+    "CARDIO - Bicicleta (Ritmo Suave)": { videoUrl: "https://www.youtube.com/watch?v=r6iTJGOftHY", notes: "" },
+    "CARDIO - Bicicleta (Ritmo Fuerte)": { videoUrl: "https://www.youtube.com/watch?v=T4xdxoA4UzY", notes: "Liberación." },
     "Liberación Miofascial - Zona Cervical": { videoUrl: "https://youtu.be/v67iiyvrbx0", notes: "Liberación." },
     "Liberación Miofascial - Zona Torácica": { videoUrl: "https://youtu.be/hESaRK6iaBg", notes: "Liberación." },
     "Liberación Miofascial - Zona Lumbar": { videoUrl: "https://youtu.be/iR4yp5nhlpA", notes: "Liberación." },
